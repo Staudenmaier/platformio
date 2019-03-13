@@ -1,5 +1,6 @@
 PlatformIO
 ==========
+test
 
 .. image:: https://travis-ci.org/platformio/platformio.svg?branch=develop
     :target: https://travis-ci.org/platformio/platformio
